@@ -1,0 +1,10 @@
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\ChatServer\ChatServer\obj\Debug\ChatServer.exe.config
