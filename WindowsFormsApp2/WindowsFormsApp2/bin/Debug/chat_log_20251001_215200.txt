@@ -1,0 +1,14 @@
+=== Chat session started at 2025-10-01 21:52:00 ===
+[2025-10-01 21:52:00] [SYSTEM] Chat application started
+[2025-10-01 21:52:05] [SYSTEM] Connected to server as salsa
+[2025-10-01 21:52:15] [21:52] [INFO] aku joined the chat
+[2025-10-01 21:52:24] [21:52] salsa: ping
+[2025-10-01 21:52:29] [21:52] salsa: kok dua
+[2025-10-01 21:52:31] [21:52] salsa: hala
+[2025-10-01 21:52:35] [21:52] aku: jirr kok 2
+[2025-10-01 21:52:48] [21:52] aku: hallo
+[2025-10-01 21:52:51] [21:52] aku: sama aja
+[2025-10-01 21:53:05] [21:53] [INFO] user1 joined the chat
+[2025-10-01 21:53:25] [21:53] user1: plis
+[2025-10-01 21:53:32] [SYSTEM] Disconnected from server
+=== Chat session ended at 2025-10-01 21:53:32 ===

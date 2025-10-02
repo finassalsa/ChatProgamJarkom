@@ -1,0 +1,20 @@
+[2025-10-01 22:01:46] Server started
+[2025-10-01 22:01:46] Server started on port 5000...
+[2025-10-01 22:02:01] User user1 connected from 127.0.0.1:50523
+[2025-10-01 22:02:01] [22:02] [INFO] user1 joined the chat
+[2025-10-01 22:02:01] [USERS]user1
+[2025-10-01 22:02:04] User mine connected from 127.0.0.1:50524
+[2025-10-01 22:02:04] [22:02] [INFO] mine joined the chat
+[2025-10-01 22:02:04] [USERS]user1,mine
+[2025-10-01 22:02:08] User gweh connected from 127.0.0.1:50525
+[2025-10-01 22:02:08] [22:02] [INFO] gweh joined the chat
+[2025-10-01 22:02:08] [USERS]user1,mine,gweh
+[2025-10-01 22:07:01] [22:07] [INFO] gweh left the chat
+[2025-10-01 22:07:01] [USERS]user1,mine
+[2025-10-01 22:07:01] User gweh disconnected
+[2025-10-01 22:07:03] [22:07] [INFO] user1 left the chat
+[2025-10-01 22:07:03] [USERS]mine
+[2025-10-01 22:07:03] User user1 disconnected
+[2025-10-01 22:07:05] [22:07] [INFO] mine left the chat
+[2025-10-01 22:07:05] [USERS]
+[2025-10-01 22:07:05] User mine disconnected

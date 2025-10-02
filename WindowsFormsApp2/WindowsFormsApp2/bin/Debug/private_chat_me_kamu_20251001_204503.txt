@@ -1,0 +1,4 @@
+=== Private chat between me and kamu started at 2025-10-01 20:45:03 ===
+[2025-10-01 20:45:09] [20:45] [You to kamu] tonglong
+[2025-10-01 20:45:34] [20:45] [You to kamu] ya opo siii
+=== Private chat ended at 2025-10-01 20:45:37 ===

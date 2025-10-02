@@ -1,0 +1,25 @@
+[2025-10-01 20:44:18] Server started
+[2025-10-01 20:44:18] Server started on port 5000...
+[2025-10-01 20:44:51] User aku connected from 127.0.0.1:51699
+[2025-10-01 20:44:51] [20:44] [INFO] aku joined the chat
+[2025-10-01 20:44:51] [USERS]aku
+[2025-10-01 20:44:55] User kamu connected from 127.0.0.1:51700
+[2025-10-01 20:44:55] [20:44] [INFO] kamu joined the chat
+[2025-10-01 20:44:55] [USERS]aku,kamu
+[2025-10-01 20:44:59] User me connected from 127.0.0.1:51701
+[2025-10-01 20:44:59] [20:44] [INFO] me joined the chat
+[2025-10-01 20:44:59] [USERS]aku,kamu,me
+[2025-10-01 20:45:09] PM from me to kamu: tonglong
+[2025-10-01 20:45:25] PM from kamu to me: ish
+[2025-10-01 20:45:29] PM from kamu to me: tak patut
+[2025-10-01 20:45:34] PM from me to kamu: ya opo siii
+[2025-10-01 20:45:41] [20:45] aku: tolonggg
+[2025-10-01 20:45:46] [20:45] [INFO] me left the chat
+[2025-10-01 20:45:46] [USERS]aku,kamu
+[2025-10-01 20:45:46] User me disconnected
+[2025-10-01 20:45:47] [20:45] [INFO] kamu left the chat
+[2025-10-01 20:45:47] [USERS]aku
+[2025-10-01 20:45:47] User kamu disconnected
+[2025-10-01 20:45:49] [20:45] [INFO] aku left the chat
+[2025-10-01 20:45:49] [USERS]
+[2025-10-01 20:45:49] User aku disconnected

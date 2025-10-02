@@ -1,0 +1,10 @@
+=== Chat session started at 2025-10-01 20:44:21 ===
+[2025-10-01 20:44:21] [SYSTEM] Chat logger initialized
+[2025-10-01 20:44:59] [SYSTEM] Connected to server as me
+[2025-10-01 20:45:09] [20:45] [PRIVATE to kamu] tonglong
+[2025-10-01 20:45:25] [20:45] [PRIVATE from kamu] ish
+[2025-10-01 20:45:29] [20:45] [PRIVATE from kamu] tak patut
+[2025-10-01 20:45:34] [20:45] [PRIVATE to kamu] ya opo siii
+[2025-10-01 20:45:41] [20:45] aku: tolonggg
+[2025-10-01 20:45:47] [SYSTEM] Disconnected from server
+=== Chat session ended at 2025-10-01 20:45:47 ===

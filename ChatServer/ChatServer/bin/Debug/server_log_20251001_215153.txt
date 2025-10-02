@@ -1,0 +1,36 @@
+[2025-10-01 21:51:53] Server started
+[2025-10-01 21:51:53] Server started on port 5000...
+[2025-10-01 21:52:05] User salsa connected from 127.0.0.1:63209
+[2025-10-01 21:52:05] [21:52] [INFO] salsa joined the chat
+[2025-10-01 21:52:05] [USERS]salsa
+[2025-10-01 21:52:15] User aku connected from 127.0.0.1:63210
+[2025-10-01 21:52:15] [21:52] [INFO] aku joined the chat
+[2025-10-01 21:52:15] [USERS]salsa,aku
+[2025-10-01 21:52:24] [21:52] salsa: ping
+[2025-10-01 21:52:29] [21:52] salsa: kok dua
+[2025-10-01 21:52:31] [21:52] salsa: hala
+[2025-10-01 21:52:35] [21:52] aku: jirr kok 2
+[2025-10-01 21:52:48] [21:52] aku: hallo
+[2025-10-01 21:52:51] [21:52] aku: sama aja
+[2025-10-01 21:53:05] User user1 connected from 127.0.0.1:63212
+[2025-10-01 21:53:05] [21:53] [INFO] user1 joined the chat
+[2025-10-01 21:53:05] [USERS]salsa,aku,user1
+[2025-10-01 21:53:25] [21:53] user1: plis
+[2025-10-01 21:53:31] [21:53] [INFO] salsa left the chat
+[2025-10-01 21:53:31] [USERS]aku,user1
+[2025-10-01 21:53:31] User salsa disconnected
+[2025-10-01 21:53:32] [21:53] [INFO] user1 left the chat
+[2025-10-01 21:53:32] [USERS]aku
+[2025-10-01 21:53:32] User user1 disconnected
+[2025-10-01 21:53:34] [21:53] [INFO] aku left the chat
+[2025-10-01 21:53:34] [USERS]
+[2025-10-01 21:53:34] User aku disconnected
+[2025-10-01 21:56:13] User user1 connected from 127.0.0.1:63246
+[2025-10-01 21:56:13] [21:56] [INFO] user1 joined the chat
+[2025-10-01 21:56:13] [USERS]user1
+[2025-10-01 21:56:21] User pp connected from 127.0.0.1:63247
+[2025-10-01 21:56:21] [21:56] [INFO] pp joined the chat
+[2025-10-01 21:56:21] [USERS]user1,pp
+[2025-10-01 21:56:28] User lol connected from 127.0.0.1:63248
+[2025-10-01 21:56:28] [21:56] [INFO] lol joined the chat
+[2025-10-01 21:56:28] [USERS]user1,pp,lol

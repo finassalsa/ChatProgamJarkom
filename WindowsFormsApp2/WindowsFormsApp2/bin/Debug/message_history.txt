@@ -1,0 +1,97 @@
+[20:23] [INFO] user1 left the chat
+[20:23] [INFO] salsa joined the chat
+[20:23] [INFO] user1 left the chat
+[20:23] [INFO] user1 joined the chat
+[20:23] [INFO] elmo joined the chat
+[20:24] [PRIVATE from elmo] hallo
+[20:24] [PRIVATE to user1] hallo
+[20:24] [PRIVATE to user1] wth
+[20:24] [PRIVATE from elmo] lahh
+[20:24] [PRIVATE to user1] tadi ilang
+[20:24] [PRIVATE from elmo] tadi ilang
+[20:24] [PRIVATE from user1] plis
+[20:24] [PRIVATE to elmo] plis
+[20:24] [PRIVATE from user1] lah
+[20:24] [PRIVATE to elmo] lah
+[20:24] [PRIVATE to elmo] chat pertama ilang jirr
+[20:24] [PRIVATE from user1] chat pertama ilang jirr
+[20:25] salsa: permisi
+[20:25] salsa: permisi
+[20:25] salsa: di aku ga muncul co
+[20:25] salsa: di aku ga muncul co
+[20:28] elmo: :
+[20:28] elmo: :
+[20:29] elmo: :::
+[20:29] elmo: :::
+[20:29] elmo: 111
+[20:29] elmo: 111
+[20:32] [INFO] user1 left the chat
+[20:32] [INFO] elmo left the chat
+[20:44] [INFO] kamu joined the chat
+[20:44] [INFO] me joined the chat
+[20:44] [INFO] me joined the chat
+[20:45] [PRIVATE to kamu] tonglong
+[20:45] [PRIVATE from kamu] ish
+[20:45] [PRIVATE to me] tak patut
+[20:45] [PRIVATE from kamu] tak patut
+[20:45] [PRIVATE from me] ya opo siii
+[20:45] aku: tolonggg
+[20:45] [INFO] me left the chat
+[20:45] [INFO] kamu left the chat
+[21:37] user1: gelo
+[21:37] user1: aaaaaaaaaaaa
+[21:40] [INFO] user1 left the chat
+[21:40] [INFO] mmm joined the chat
+[21:40] [INFO] user1 left the chat
+[21:41] [INFO] user1 joined the chat
+[21:51] [INFO] mmm left the chat
+[21:52] [INFO] aku joined the chat
+[21:52] salsa: ping
+[21:52] salsa: ping
+[21:52] salsa: kok dua
+[21:52] salsa: hala
+[21:52] aku: jirr kok 2
+[21:52] aku: hallo
+[21:52] aku: sama aja
+[21:53] [INFO] user1 joined the chat
+[21:53] user1: plis
+[21:53] user1: plis
+[21:53] [INFO] salsa left the chat
+[21:53] [INFO] user1 left the chat
+[21:56] [INFO] pp joined the chat
+[21:56] [INFO] lol joined the chat
+[22:02] [INFO] mine joined the chat
+[22:02] [INFO] gweh joined the chat
+[22:07] [INFO] gweh left the chat
+[22:07] [INFO] user1 left the chat
+[22:22] [INFO] kokoko joined the chat
+[22:22] [INFO] user1 left the chat
+[22:22] [INFO] user1 left the chat
+[22:22] [INFO] user1 left the chat
+[22:22] [INFO] user1 joined the chat
+[22:22] [INFO] bhbhkjbkj joined the chat
+[22:22] [PRIVATE to bhbhkjbkj] nah ini bener
+[22:22] [PRIVATE from kokoko] nah ini bener
+[22:23] [PRIVATE from kokoko] tapi masi salah banyak jujur
+[22:23] [PRIVATE to bhbhkjbkj] tapi masi salah banyak jujur
+[22:23] [INFO] kokoko left the chat
+[22:23] [INFO] user1 left the chat
+[05:16] [INFO] salsa joined the chat
+[05:16] [INFO] elmo joined the chat
+[05:16] salsa: hallo
+[05:17] [PRIVATE from elmo] oi
+[05:22] user1: ayo leggo
+[05:22] salsa: hiks
+[05:22] [INFO] user1 left the chat
+[05:22] [INFO] user1 left the chat
+[05:22] elmo: lah
+[05:22] elmo: aman si
+[05:22] elmo: wjwww
+[05:22] [PRIVATE from salsa] hai bro
+[05:22] [PRIVATE to elmo] hai bro
+[05:22] [PRIVATE from salsa] oi
+[05:22] [PRIVATE from salsa] maap nih
+[05:22] [PRIVATE from elmo] hmm
+[05:23] [PRIVATE to salsa] hallo
+[05:23] [PRIVATE to salsa] lah ga bisa co
+[05:23] [INFO] salsa left the chat

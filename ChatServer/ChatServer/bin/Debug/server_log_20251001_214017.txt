@@ -1,0 +1,29 @@
+[2025-10-01 21:40:17] Server started
+[2025-10-01 21:40:17] Server started on port 5000...
+[2025-10-01 21:40:29] User user1 connected from 127.0.0.1:63107
+[2025-10-01 21:40:29] [21:40] [INFO] user1 joined the chat
+[2025-10-01 21:40:29] [USERS]user1
+[2025-10-01 21:40:42] [21:40] [INFO] user1 left the chat
+[2025-10-01 21:40:42] [USERS]
+[2025-10-01 21:40:42] User user1 disconnected
+[2025-10-01 21:40:47] User mmm connected from 127.0.0.1:63110
+[2025-10-01 21:40:47] [21:40] [INFO] mmm joined the chat
+[2025-10-01 21:40:47] [USERS]mmm
+[2025-10-01 21:40:58] [21:40] [INFO] user1 left the chat
+[2025-10-01 21:40:58] [USERS]mmm
+[2025-10-01 21:40:58] User user1 disconnected
+[2025-10-01 21:41:01] [21:41] [INFO] mmm left the chat
+[2025-10-01 21:41:01] [USERS]
+[2025-10-01 21:41:01] User mmm disconnected
+[2025-10-01 21:41:03] User mmm connected from 127.0.0.1:63111
+[2025-10-01 21:41:03] [21:41] [INFO] mmm joined the chat
+[2025-10-01 21:41:03] [USERS]mmm
+[2025-10-01 21:41:05] User user1 connected from 127.0.0.1:63112
+[2025-10-01 21:41:05] [21:41] [INFO] user1 joined the chat
+[2025-10-01 21:41:05] [USERS]mmm,user1
+[2025-10-01 21:51:48] [21:51] [INFO] mmm left the chat
+[2025-10-01 21:51:48] [USERS]user1
+[2025-10-01 21:51:48] User mmm disconnected
+[2025-10-01 21:51:49] [21:51] [INFO] user1 left the chat
+[2025-10-01 21:51:49] [USERS]
+[2025-10-01 21:51:49] User user1 disconnected

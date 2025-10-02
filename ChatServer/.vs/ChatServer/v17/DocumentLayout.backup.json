@@ -7,14 +7,8 @@
       "RelativeMoniker": "D:0:0:{EA1D82A8-D6E3-424A-9FBC-0F88BCE58E4F}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChatServer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA1D82A8-D6E3-424A-9FBC-0F88BCE58E4F}|ChatServer\\ChatServer.csproj|C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\chatserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EA1D82A8-D6E3-424A-9FBC-0F88BCE58E4F}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1D82A8-D6E3-424A-9FBC-0F88BCE58E4F}|ChatServer\\ChatServer.csproj|c:\\00. mine\\kuliah tsgb\\collage\\00 semester 5\\pemograman jaringan komputer\\chatprogram\\chatserver\\chatserver\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,43 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChatServer",
-              "DocumentMoniker": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\ChatServer.csproj",
-              "RelativeDocumentMoniker": "ChatServer\\ChatServer.csproj",
-              "ToolTip": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\ChatServer.csproj",
-              "RelativeToolTip": "ChatServer\\ChatServer.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-24T10:00:12.85Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\Program.cs",
               "RelativeDocumentMoniker": "ChatServer\\Program.cs",
-              "ToolTip": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\Program.cs*",
-              "RelativeToolTip": "ChatServer\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAwwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:41:10.165Z",
+              "WhenOpened": "2025-10-01T11:55:55.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\Form1.cs",
               "RelativeDocumentMoniker": "ChatServer\\Form1.cs",
               "ToolTip": "C:\\00. MINE\\KULIAH TSGB\\COLLAGE\\00 SEMESTER 5\\PEMOGRAMAN JARINGAN KOMPUTER\\ChatProgram\\ChatServer\\ChatServer\\Form1.cs [Design]",
               "RelativeToolTip": "ChatServer\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:41:06.406Z"
+              "WhenOpened": "2025-10-01T11:55:50.065Z"
             }
           ]
         }

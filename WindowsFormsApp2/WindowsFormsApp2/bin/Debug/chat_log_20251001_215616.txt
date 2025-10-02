@@ -1,0 +1,7 @@
+=== Chat session started at 2025-10-01 21:56:16 ===
+[2025-10-01 21:56:16] [SYSTEM] Chat application started
+[2025-10-01 21:56:21] [SYSTEM] Connected to server as pp
+[2025-10-01 21:56:28] [21:56] [INFO] lol joined the chat
+[2025-10-01 22:00:36] [ERROR] Connection lost: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+[2025-10-01 22:00:39] [SYSTEM] Disconnected from server
+=== Chat session ended at 2025-10-01 22:00:39 ===

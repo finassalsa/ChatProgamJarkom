@@ -1,0 +1,41 @@
+[2025-10-01 20:23:05] Server started
+[2025-10-01 20:23:05] Server started on port 5000...
+[2025-10-01 20:23:23] User user1 connected from 127.0.0.1:51572
+[2025-10-01 20:23:23] [20:23] [INFO] user1 joined the chat
+[2025-10-01 20:23:23] [USERS]user1
+[2025-10-01 20:23:26] [20:23] [INFO] user1 left the chat
+[2025-10-01 20:23:26] [USERS]
+[2025-10-01 20:23:26] User user1 disconnected
+[2025-10-01 20:23:34] User salsa connected from 127.0.0.1:51576
+[2025-10-01 20:23:34] [20:23] [INFO] salsa joined the chat
+[2025-10-01 20:23:34] [USERS]salsa
+[2025-10-01 20:23:40] [20:23] [INFO] user1 left the chat
+[2025-10-01 20:23:40] [USERS]salsa
+[2025-10-01 20:23:40] User user1 disconnected
+[2025-10-01 20:23:43] User user1 connected from 127.0.0.1:51577
+[2025-10-01 20:23:43] [20:23] [INFO] user1 joined the chat
+[2025-10-01 20:23:43] [USERS]salsa,user1
+[2025-10-01 20:23:50] User elmo connected from 127.0.0.1:51578
+[2025-10-01 20:23:50] [20:23] [INFO] elmo joined the chat
+[2025-10-01 20:23:50] [USERS]salsa,user1,elmo
+[2025-10-01 20:24:03] PM from elmo to user1: hallo
+[2025-10-01 20:24:18] PM from elmo to user1: wth
+[2025-10-01 20:24:27] PM from elmo to user1: lahh
+[2025-10-01 20:24:31] PM from elmo to user1: tadi ilang
+[2025-10-01 20:24:37] PM from user1 to elmo: plis
+[2025-10-01 20:24:41] PM from user1 to elmo: lah
+[2025-10-01 20:24:48] PM from user1 to elmo: chat pertama ilang jirr
+[2025-10-01 20:25:10] [20:25] salsa: permisi
+[2025-10-01 20:25:18] [20:25] salsa: di aku ga muncul co
+[2025-10-01 20:28:59] [20:28] elmo: :
+[2025-10-01 20:29:05] [20:29] elmo: :::
+[2025-10-01 20:29:09] [20:29] elmo: 111
+[2025-10-01 20:32:31] [20:32] [INFO] user1 left the chat
+[2025-10-01 20:32:31] [USERS]salsa,elmo
+[2025-10-01 20:32:31] User user1 disconnected
+[2025-10-01 20:32:32] [20:32] [INFO] elmo left the chat
+[2025-10-01 20:32:32] [USERS]salsa
+[2025-10-01 20:32:32] User elmo disconnected
+[2025-10-01 20:32:33] [20:32] [INFO] salsa left the chat
+[2025-10-01 20:32:33] [USERS]
+[2025-10-01 20:32:33] User salsa disconnected

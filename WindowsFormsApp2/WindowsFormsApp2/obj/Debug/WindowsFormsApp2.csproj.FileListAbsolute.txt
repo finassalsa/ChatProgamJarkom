@@ -1,0 +1,14 @@
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\00. MINE\KULIAH TSGB\COLLAGE\00 SEMESTER 5\PEMOGRAMAN JARINGAN KOMPUTER\ChatProgram\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config

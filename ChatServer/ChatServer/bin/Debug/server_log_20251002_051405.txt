@@ -1,0 +1,33 @@
+[2025-10-02 05:14:05] Server started
+[2025-10-02 05:14:05] Server started on port 5000...
+[2025-10-02 05:16:32] User user1 connected from 127.0.0.1:50198
+[2025-10-02 05:16:32] [05:16] [INFO] user1 joined the chat
+[2025-10-02 05:16:32] [USERS]user1
+[2025-10-02 05:16:42] User salsa connected from 127.0.0.1:50199
+[2025-10-02 05:16:42] [05:16] [INFO] salsa joined the chat
+[2025-10-02 05:16:42] [USERS]user1,salsa
+[2025-10-02 05:16:48] User elmo connected from 127.0.0.1:50200
+[2025-10-02 05:16:48] [05:16] [INFO] elmo joined the chat
+[2025-10-02 05:16:48] [USERS]user1,salsa,elmo
+[2025-10-02 05:16:53] [05:16] salsa: hallo
+[2025-10-02 05:17:24] PM from elmo to salsa: oi
+[2025-10-02 05:22:08] [05:22] user1: ayo leggo
+[2025-10-02 05:22:21] [05:22] salsa: hiks
+[2025-10-02 05:22:24] [05:22] [INFO] user1 left the chat
+[2025-10-02 05:22:24] [USERS]salsa,elmo
+[2025-10-02 05:22:24] User user1 disconnected
+[2025-10-02 05:22:29] [05:22] elmo: lah
+[2025-10-02 05:22:31] [05:22] elmo: aman si
+[2025-10-02 05:22:32] [05:22] elmo: wjwww
+[2025-10-02 05:22:40] PM from salsa to elmo: hai bro
+[2025-10-02 05:22:44] PM from salsa to elmo: oi
+[2025-10-02 05:22:47] PM from salsa to elmo: maap nih
+[2025-10-02 05:22:57] PM from elmo to salsa: hmm
+[2025-10-02 05:23:00] PM from elmo to salsa: hallo
+[2025-10-02 05:23:05] PM from elmo to salsa: lah ga bisa co
+[2025-10-02 05:23:18] [05:23] [INFO] salsa left the chat
+[2025-10-02 05:23:18] [USERS]elmo
+[2025-10-02 05:23:18] User salsa disconnected
+[2025-10-02 05:23:21] [05:23] [INFO] elmo left the chat
+[2025-10-02 05:23:21] [USERS]
+[2025-10-02 05:23:21] User elmo disconnected
